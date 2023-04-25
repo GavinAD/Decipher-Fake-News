@@ -29,7 +29,7 @@
   color: white;
 }
 body {
-  background-image: linear-gradient(
+  background: linear-gradient(
     to right, 
     { color: #32EF39; } 0%, 
     { color: #32EF39; } 50%;
