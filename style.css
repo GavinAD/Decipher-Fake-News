@@ -35,8 +35,4 @@ body {
     { color: #32EF39; } 50%;
       { color: #E2291D; } 50%, 
       { color: #E2291D; } 100%);
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
