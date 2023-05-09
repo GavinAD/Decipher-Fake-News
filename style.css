@@ -8,10 +8,10 @@ body {
   height: 100vh;
   background: linear-gradient(
     to right, 
-    color: #32EF39; 0%, 
-    color: #32EF39; 50%,
-    color: #E2291D; 50%, 
-    color: #E2291D; 100%);
+    #32EF39; 0%, 
+    #32EF39; 50%,
+    #E2291D; 50%, 
+    #E2291D; 100%);
 }
 
 #topNav {
