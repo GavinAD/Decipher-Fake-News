@@ -34,8 +34,8 @@ body {
   height: 100vh;
   background: linear-gradient(
     to right, 
-      color: #32EF39; 0%, 
-      color: #32EF39; 50%;
-        color: #E2291D; 50%, 
-        color: #E2291D; 100%);
+    color: #32EF39; 0%, 
+    color: #32EF39; 50%;
+    color: #E2291D; 50%, 
+    color: #E2291D; 100%);
 }
