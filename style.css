@@ -21,8 +21,8 @@ body {
     /* offset-x | offset-y | blur-radius | spread-radius | color */
   margin: auto;
   height: auto;
-  text-align: center;
-  width: 45%;
+  text-align: right;
+  width: 10%;
 }
 #topNav li {
   display: inline;
