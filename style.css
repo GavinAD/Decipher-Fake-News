@@ -23,6 +23,12 @@ body.creators {
   height: 100vh;
   background: LightGreen;
 }
+a {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
 /* Style buttons */
 .btn {
   background-color: Black; /* Blue background */
