@@ -51,3 +51,10 @@ img.creators {
   width: 20%;
   height: 60%;
 }
+img.game {
+  display: block;
+  margin-left: auto;
+  margin-rigt: auto;
+  width: 50%;
+  height: 50%;
+}
