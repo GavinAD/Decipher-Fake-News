@@ -65,3 +65,7 @@ img.game {
 .flex-child {
   flex: 1;
 }
+iframe {
+  margin-left: auto;
+  margin-right: auto;
+}
