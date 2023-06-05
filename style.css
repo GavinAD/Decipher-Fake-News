@@ -69,3 +69,10 @@ iframe {
   margin-left: auto;
   margin-right: auto;
 }
+video {
+  width: 70%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
